@@ -4,7 +4,7 @@ Computer Science graduate focused on AI/ML and software engineering, with hands-
 
 ## Featured Projects
 
-### AutoHire
+### [AutoHire](https://github.com/UtterlyWu/autohire-showcase)
 AI-powered job-search and resume-tailoring application.
 
 - Built with React, TypeScript, Cloudflare Workers, Supabase/PostgreSQL, Modal, Python, and LangGraph
